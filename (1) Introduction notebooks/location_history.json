@@ -1,0 +1,1820 @@
+{
+  "location_history_v2": [
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32321,
+        "longitude": 5.0483
+      },
+      "creation_timestamp": 1569332957
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32725,
+        "longitude": 5.04726
+      },
+      "creation_timestamp": 1569252581
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32439,
+        "longitude": 5.04843
+      },
+      "creation_timestamp": 1568820054
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32333,
+        "longitude": 5.04861
+      },
+      "creation_timestamp": 1568794714
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32359,
+        "longitude": 5.04809
+      },
+      "creation_timestamp": 1568628175
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32311,
+        "longitude": 5.04191
+      },
+      "creation_timestamp": 1568551903
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32309,
+        "longitude": 5.04192
+      },
+      "creation_timestamp": 1568391732
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32352,
+        "longitude": 5.04785
+      },
+      "creation_timestamp": 1568386352
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.3214,
+        "longitude": 5.048
+      },
+      "creation_timestamp": 1568369437
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32373,
+        "longitude": 5.04794
+      },
+      "creation_timestamp": 1568353970
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32296,
+        "longitude": 5.04191
+      },
+      "creation_timestamp": 1568312984
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32377,
+        "longitude": 5.04936
+      },
+      "creation_timestamp": 1568308066
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32421,
+        "longitude": 5.0488
+      },
+      "creation_timestamp": 1568282775
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32323,
+        "longitude": 5.04214
+      },
+      "creation_timestamp": 1568230076
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32309,
+        "longitude": 5.04193
+      },
+      "creation_timestamp": 1568217265
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32332,
+        "longitude": 5.04862
+      },
+      "creation_timestamp": 1568189904
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32549,
+        "longitude": 5.04003
+      },
+      "creation_timestamp": 1568050489
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32388,
+        "longitude": 5.04107
+      },
+      "creation_timestamp": 1567704396
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32311,
+        "longitude": 5.04208
+      },
+      "creation_timestamp": 1567611867
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32438,
+        "longitude": 5.0486
+      },
+      "creation_timestamp": 1567592697
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32326,
+        "longitude": 5.04212
+      },
+      "creation_timestamp": 1567541530
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32304,
+        "longitude": 5.04187
+      },
+      "creation_timestamp": 1567527995
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32327,
+        "longitude": 5.04165
+      },
+      "creation_timestamp": 1567441569
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32307,
+        "longitude": 5.04184
+      },
+      "creation_timestamp": 1567335840
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32126,
+        "longitude": 5.0413
+      },
+      "creation_timestamp": 1567285561
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.31902,
+        "longitude": 5.03743
+      },
+      "creation_timestamp": 1567256589
+    },
+    {
+      "name": "Corgoloin",
+      "coordinate": {
+        "latitude": 47.07512,
+        "longitude": 4.91348
+      },
+      "creation_timestamp": 1567245528
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05557,
+        "longitude": 4.77039
+      },
+      "creation_timestamp": 1567237703
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05562,
+        "longitude": 4.7704
+      },
+      "creation_timestamp": 1566755337
+    },
+    {
+      "name": "Flagey-\u00c3\u0089ch\u00c3\u00a9zeaux",
+      "coordinate": {
+        "latitude": 47.15299,
+        "longitude": 4.98745
+      },
+      "creation_timestamp": 1566639473
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05558,
+        "longitude": 4.77034
+      },
+      "creation_timestamp": 1566472051
+    },
+    {
+      "name": "Perrigny-L\u00c3\u00a8s-Dijon",
+      "coordinate": {
+        "latitude": 47.26812,
+        "longitude": 5.0096
+      },
+      "creation_timestamp": 1566075340
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32332,
+        "longitude": 5.04231
+      },
+      "creation_timestamp": 1566045762
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.3145,
+        "longitude": 5.06665
+      },
+      "creation_timestamp": 1565961526
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.06504,
+        "longitude": 4.81404
+      },
+      "creation_timestamp": 1565937716
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.0557,
+        "longitude": 4.77034
+      },
+      "creation_timestamp": 1565859119
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.0556,
+        "longitude": 4.77034
+      },
+      "creation_timestamp": 1565775814
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05562,
+        "longitude": 4.77042
+      },
+      "creation_timestamp": 1565454700
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05556,
+        "longitude": 4.77033
+      },
+      "creation_timestamp": 1564783025
+    },
+    {
+      "name": "Amb\u00c3\u00a9rieu-en-Bugey",
+      "coordinate": {
+        "latitude": 45.95652,
+        "longitude": 5.35783
+      },
+      "creation_timestamp": 1564051267
+    },
+    {
+      "name": "Cran-G\u00c3\u00a9vrier",
+      "coordinate": {
+        "latitude": 45.90784,
+        "longitude": 6.10725
+      },
+      "creation_timestamp": 1563819352
+    },
+    {
+      "name": "La Clusaz",
+      "coordinate": {
+        "latitude": 45.90707,
+        "longitude": 6.42704
+      },
+      "creation_timestamp": 1563553506
+    },
+    {
+      "name": "Amb\u00c3\u00a9rieu-en-Bugey",
+      "coordinate": {
+        "latitude": 45.95668,
+        "longitude": 5.35749
+      },
+      "creation_timestamp": 1563482626
+    },
+    {
+      "name": "Montpellier",
+      "coordinate": {
+        "latitude": 43.60503,
+        "longitude": 3.87938
+      },
+      "creation_timestamp": 1563431920
+    },
+    {
+      "name": "Montpellier",
+      "coordinate": {
+        "latitude": 43.60494,
+        "longitude": 3.87945
+      },
+      "creation_timestamp": 1563394313
+    },
+    {
+      "name": "Montpellier",
+      "coordinate": {
+        "latitude": 43.60486,
+        "longitude": 3.87954
+      },
+      "creation_timestamp": 1563173397
+    },
+    {
+      "name": "Sainte-Maxime",
+      "coordinate": {
+        "latitude": 43.3076,
+        "longitude": 6.64115
+      },
+      "creation_timestamp": 1562931349
+    },
+    {
+      "name": "Saint-Rapha\u00c3\u00abl",
+      "coordinate": {
+        "latitude": 43.42158,
+        "longitude": 6.76851
+      },
+      "creation_timestamp": 1562767594
+    },
+    {
+      "name": "Amb\u00c3\u00a9rieu-en-Bugey",
+      "coordinate": {
+        "latitude": 45.9566,
+        "longitude": 5.35776
+      },
+      "creation_timestamp": 1562321645
+    },
+    {
+      "name": "Viriat",
+      "coordinate": {
+        "latitude": 46.25959,
+        "longitude": 5.19484
+      },
+      "creation_timestamp": 1562317859
+    },
+    {
+      "name": "Confran\u00c3\u00a7on",
+      "coordinate": {
+        "latitude": 46.27067,
+        "longitude": 5.06077
+      },
+      "creation_timestamp": 1562317564
+    },
+    {
+      "name": "Chagny",
+      "coordinate": {
+        "latitude": 46.89534,
+        "longitude": 4.75224
+      },
+      "creation_timestamp": 1562242523
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05584,
+        "longitude": 4.77043
+      },
+      "creation_timestamp": 1562190912
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05558,
+        "longitude": 4.7704
+      },
+      "creation_timestamp": 1562172683
+    },
+    {
+      "name": "Beaune",
+      "coordinate": {
+        "latitude": 47.01809,
+        "longitude": 4.80764
+      },
+      "creation_timestamp": 1562095410
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05572,
+        "longitude": 4.77038
+      },
+      "creation_timestamp": 1561968435
+    },
+    {
+      "name": "Beaune",
+      "coordinate": {
+        "latitude": 47.00878,
+        "longitude": 4.84477
+      },
+      "creation_timestamp": 1561894378
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.06497,
+        "longitude": 4.81399
+      },
+      "creation_timestamp": 1561883424
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.06497,
+        "longitude": 4.81399
+      },
+      "creation_timestamp": 1561828863
+    },
+    {
+      "name": "Beaune",
+      "coordinate": {
+        "latitude": 47.02299,
+        "longitude": 4.8606
+      },
+      "creation_timestamp": 1561825919
+    },
+    {
+      "name": "Chalon-sur-Sa\u00c3\u00b4ne",
+      "coordinate": {
+        "latitude": 46.78164,
+        "longitude": 4.85768
+      },
+      "creation_timestamp": 1561820500
+    },
+    {
+      "name": "Chagny",
+      "coordinate": {
+        "latitude": 46.90719,
+        "longitude": 4.75373
+      },
+      "creation_timestamp": 1561806054
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05558,
+        "longitude": 4.77035
+      },
+      "creation_timestamp": 1561672656
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.06499,
+        "longitude": 4.81401
+      },
+      "creation_timestamp": 1561648648
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05576,
+        "longitude": 4.77049
+      },
+      "creation_timestamp": 1561560782
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32303,
+        "longitude": 5.04198
+      },
+      "creation_timestamp": 1561537466
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32306,
+        "longitude": 5.04206
+      },
+      "creation_timestamp": 1561438006
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32321,
+        "longitude": 5.04206
+      },
+      "creation_timestamp": 1561409724
+    },
+    {
+      "name": "Levernois",
+      "coordinate": {
+        "latitude": 46.99652,
+        "longitude": 4.8697
+      },
+      "creation_timestamp": 1561290513
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05579,
+        "longitude": 4.7704
+      },
+      "creation_timestamp": 1561244635
+    },
+    {
+      "name": "Beaune",
+      "coordinate": {
+        "latitude": 47.03065,
+        "longitude": 4.83887
+      },
+      "creation_timestamp": 1561236428
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32385,
+        "longitude": 5.04806
+      },
+      "creation_timestamp": 1560845811
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32306,
+        "longitude": 5.04313
+      },
+      "creation_timestamp": 1560836557
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32315,
+        "longitude": 5.04201
+      },
+      "creation_timestamp": 1560636255
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32318,
+        "longitude": 5.04207
+      },
+      "creation_timestamp": 1560359196
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32306,
+        "longitude": 5.04218
+      },
+      "creation_timestamp": 1560284178
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32306,
+        "longitude": 5.04185
+      },
+      "creation_timestamp": 1560276349
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32304,
+        "longitude": 5.04209
+      },
+      "creation_timestamp": 1559671865
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32312,
+        "longitude": 5.04211
+      },
+      "creation_timestamp": 1558973631
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32278,
+        "longitude": 5.04153
+      },
+      "creation_timestamp": 1558174101
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32449,
+        "longitude": 5.04768
+      },
+      "creation_timestamp": 1558102520
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32307,
+        "longitude": 5.04203
+      },
+      "creation_timestamp": 1537126077
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05577,
+        "longitude": 4.77039
+      },
+      "creation_timestamp": 1537044810
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05584,
+        "longitude": 4.77038
+      },
+      "creation_timestamp": 1536955199
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32486,
+        "longitude": 5.04126
+      },
+      "creation_timestamp": 1536685287
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32314,
+        "longitude": 5.04204
+      },
+      "creation_timestamp": 1536666022
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32379,
+        "longitude": 5.04806
+      },
+      "creation_timestamp": 1536576665
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32364,
+        "longitude": 5.04791
+      },
+      "creation_timestamp": 1536566558
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32474,
+        "longitude": 5.04131
+      },
+      "creation_timestamp": 1536516578
+    },
+    {
+      "name": "Corgoloin",
+      "coordinate": {
+        "latitude": 47.08204,
+        "longitude": 4.93047
+      },
+      "creation_timestamp": 1536511951
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05571,
+        "longitude": 4.77037
+      },
+      "creation_timestamp": 1536480149
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05556,
+        "longitude": 4.77021
+      },
+      "creation_timestamp": 1536397302
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.3236,
+        "longitude": 5.04976
+      },
+      "creation_timestamp": 1536153575
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32331,
+        "longitude": 5.0483
+      },
+      "creation_timestamp": 1536144773
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32317,
+        "longitude": 5.0421
+      },
+      "creation_timestamp": 1536089456
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32316,
+        "longitude": 5.04204
+      },
+      "creation_timestamp": 1536002860
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32233,
+        "longitude": 5.03898
+      },
+      "creation_timestamp": 1535990530
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32325,
+        "longitude": 5.04215
+      },
+      "creation_timestamp": 1535962919
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32399,
+        "longitude": 5.04141
+      },
+      "creation_timestamp": 1535921091
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32313,
+        "longitude": 5.04203
+      },
+      "creation_timestamp": 1535905563
+    },
+    {
+      "name": "Gevrey-Chambertin",
+      "coordinate": {
+        "latitude": 47.23146,
+        "longitude": 5.01701
+      },
+      "creation_timestamp": 1535895197
+    },
+    {
+      "name": "Beaune",
+      "coordinate": {
+        "latitude": 47.0412,
+        "longitude": 4.84983
+      },
+      "creation_timestamp": 1535894364
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05632,
+        "longitude": 4.83445
+      },
+      "creation_timestamp": 1535894181
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05564,
+        "longitude": 4.77013
+      },
+      "creation_timestamp": 1535887664
+    },
+    {
+      "name": "Ciel (Sa\u00c3\u00b4ne-et-Loire)",
+      "coordinate": {
+        "latitude": 46.88952,
+        "longitude": 5.06211
+      },
+      "creation_timestamp": 1535869385
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.06499,
+        "longitude": 4.81403
+      },
+      "creation_timestamp": 1535818190
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05556,
+        "longitude": 4.77022
+      },
+      "creation_timestamp": 1535786072
+    },
+    {
+      "name": "Beaune",
+      "coordinate": {
+        "latitude": 47.01771,
+        "longitude": 4.83415
+      },
+      "creation_timestamp": 1535726794
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05572,
+        "longitude": 4.77033
+      },
+      "creation_timestamp": 1535717772
+    },
+    {
+      "name": "Beaune",
+      "coordinate": {
+        "latitude": 47.02313,
+        "longitude": 4.84833
+      },
+      "creation_timestamp": 1535710734
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32273,
+        "longitude": 5.02638
+      },
+      "creation_timestamp": 1535707660
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32319,
+        "longitude": 5.042
+      },
+      "creation_timestamp": 1535669616
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05584,
+        "longitude": 4.77044
+      },
+      "creation_timestamp": 1535494974
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05576,
+        "longitude": 4.77037
+      },
+      "creation_timestamp": 1535451996
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05575,
+        "longitude": 4.77032
+      },
+      "creation_timestamp": 1535440092
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.0558,
+        "longitude": 4.77035
+      },
+      "creation_timestamp": 1535400194
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05561,
+        "longitude": 4.77023
+      },
+      "creation_timestamp": 1535272267
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32847,
+        "longitude": 5.06537
+      },
+      "creation_timestamp": 1535131260
+    },
+    {
+      "name": "Beaune",
+      "coordinate": {
+        "latitude": 47.02316,
+        "longitude": 4.84867
+      },
+      "creation_timestamp": 1535110196
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05574,
+        "longitude": 4.77049
+      },
+      "creation_timestamp": 1534844374
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05594,
+        "longitude": 4.77043
+      },
+      "creation_timestamp": 1534804760
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05563,
+        "longitude": 4.77027
+      },
+      "creation_timestamp": 1534788805
+    },
+    {
+      "name": "Aloxe-Corton",
+      "coordinate": {
+        "latitude": 47.06499,
+        "longitude": 4.86199
+      },
+      "creation_timestamp": 1534696395
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.32394,
+        "longitude": 5.07335
+      },
+      "creation_timestamp": 1534683953
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.30872,
+        "longitude": 5.07811
+      },
+      "creation_timestamp": 1534683793
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05583,
+        "longitude": 4.77033
+      },
+      "creation_timestamp": 1534454407
+    },
+    {
+      "name": "Ciel (Sa\u00c3\u00b4ne-et-Loire)",
+      "coordinate": {
+        "latitude": 46.88952,
+        "longitude": 5.06212
+      },
+      "creation_timestamp": 1534294430
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05571,
+        "longitude": 4.77035
+      },
+      "creation_timestamp": 1534189339
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05562,
+        "longitude": 4.77032
+      },
+      "creation_timestamp": 1533833737
+    },
+    {
+      "name": "Annecy",
+      "coordinate": {
+        "latitude": 45.90162,
+        "longitude": 6.12283
+      },
+      "creation_timestamp": 1533645835
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05581,
+        "longitude": 4.77036
+      },
+      "creation_timestamp": 1533587351
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05565,
+        "longitude": 4.77035
+      },
+      "creation_timestamp": 1533576167
+    },
+    {
+      "name": "Dijon",
+      "coordinate": {
+        "latitude": 47.33914,
+        "longitude": 5.06614
+      },
+      "creation_timestamp": 1533564105
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05572,
+        "longitude": 4.77036
+      },
+      "creation_timestamp": 1533501460
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05565,
+        "longitude": 4.77046
+      },
+      "creation_timestamp": 1533487526
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05568,
+        "longitude": 4.77037
+      },
+      "creation_timestamp": 1533456763
+    },
+    {
+      "name": "Perrigny-L\u00c3\u00a8s-Dijon",
+      "coordinate": {
+        "latitude": 47.26816,
+        "longitude": 5.00962
+      },
+      "creation_timestamp": 1533418773
+    },
+    {
+      "name": "Amb\u00c3\u00a9rieu-en-Bugey",
+      "coordinate": {
+        "latitude": 45.95659,
+        "longitude": 5.3578
+      },
+      "creation_timestamp": 1533057969
+    },
+    {
+      "name": "Amb\u00c3\u00a9rieu-en-Bugey",
+      "coordinate": {
+        "latitude": 45.9547,
+        "longitude": 5.35356
+      },
+      "creation_timestamp": 1533054568
+    },
+    {
+      "name": "Lus-la-Croix-Haute",
+      "coordinate": {
+        "latitude": 44.71315,
+        "longitude": 5.67787
+      },
+      "creation_timestamp": 1533046002
+    },
+    {
+      "name": "Gr\u00c3\u00a9oux-les-Bains",
+      "coordinate": {
+        "latitude": 43.76243,
+        "longitude": 5.88839
+      },
+      "creation_timestamp": 1532890860
+    },
+    {
+      "name": "Gr\u00c3\u00a9oux-les-Bains",
+      "coordinate": {
+        "latitude": 43.76234,
+        "longitude": 5.88832
+      },
+      "creation_timestamp": 1532849048
+    },
+    {
+      "name": "Gr\u00c3\u00a9oux-les-Bains",
+      "coordinate": {
+        "latitude": 43.76216,
+        "longitude": 5.88848
+      },
+      "creation_timestamp": 1532816183
+    },
+    {
+      "name": "Gr\u00c3\u00a9oux-les-Bains",
+      "coordinate": {
+        "latitude": 43.76225,
+        "longitude": 5.88841
+      },
+      "creation_timestamp": 1532802329
+    },
+    {
+      "name": "Saint-Rapha\u00c3\u00abl",
+      "coordinate": {
+        "latitude": 43.44816,
+        "longitude": 6.7928
+      },
+      "creation_timestamp": 1532761184
+    },
+    {
+      "name": "Saint-Rapha\u00c3\u00abl",
+      "coordinate": {
+        "latitude": 43.44794,
+        "longitude": 6.79278
+      },
+      "creation_timestamp": 1532717506
+    },
+    {
+      "name": "Saint-Rapha\u00c3\u00abl",
+      "coordinate": {
+        "latitude": 43.4243,
+        "longitude": 6.76438
+      },
+      "creation_timestamp": 1532691195
+    },
+    {
+      "name": "Fr\u00c3\u00a9jus",
+      "coordinate": {
+        "latitude": 43.43256,
+        "longitude": 6.73534
+      },
+      "creation_timestamp": 1532682667
+    },
+    {
+      "name": "Saint-Rapha\u00c3\u00abl",
+      "coordinate": {
+        "latitude": 43.44805,
+        "longitude": 6.79266
+      },
+      "creation_timestamp": 1532675363
+    },
+    {
+      "name": "Saint-Rapha\u00c3\u00abl",
+      "coordinate": {
+        "latitude": 43.44784,
+        "longitude": 6.79269
+      },
+      "creation_timestamp": 1532614019
+    },
+    {
+      "name": "Saint-Rapha\u00c3\u00abl",
+      "coordinate": {
+        "latitude": 43.42545,
+        "longitude": 6.76901
+      },
+      "creation_timestamp": 1532605022
+    },
+    {
+      "name": "Saint-Rapha\u00c3\u00abl",
+      "coordinate": {
+        "latitude": 43.42172,
+        "longitude": 6.76856
+      },
+      "creation_timestamp": 1532444408
+    },
+    {
+      "name": "Saint-Rapha\u00c3\u00abl",
+      "coordinate": {
+        "latitude": 43.44815,
+        "longitude": 6.79299
+      },
+      "creation_timestamp": 1532441155
+    },
+    {
+      "name": "Saint-Rapha\u00c3\u00abl",
+      "coordinate": {
+        "latitude": 43.42556,
+        "longitude": 6.76987
+      },
+      "creation_timestamp": 1532425395
+    },
+    {
+      "name": "Saint-Rapha\u00c3\u00abl",
+      "coordinate": {
+        "latitude": 43.44826,
+        "longitude": 6.79298
+      },
+      "creation_timestamp": 1532416932
+    },
+    {
+      "name": "Saint-Rapha\u00c3\u00abl",
+      "coordinate": {
+        "latitude": 43.44808,
+        "longitude": 6.79257
+      },
+      "creation_timestamp": 1532367439
+    },
+    {
+      "name": "Sainte-Maxime",
+      "coordinate": {
+        "latitude": 43.30757,
+        "longitude": 6.64123
+      },
+      "creation_timestamp": 1532344805
+    },
+    {
+      "name": "Saint-Rapha\u00c3\u00abl",
+      "coordinate": {
+        "latitude": 43.44807,
+        "longitude": 6.79281
+      },
+      "creation_timestamp": 1532330811
+    },
+    {
+      "name": "Saint-Rapha\u00c3\u00abl",
+      "coordinate": {
+        "latitude": 43.44788,
+        "longitude": 6.7929
+      },
+      "creation_timestamp": 1532277603
+    },
+    {
+      "name": "Saint-Rapha\u00c3\u00abl",
+      "coordinate": {
+        "latitude": 43.44903,
+        "longitude": 6.7934
+      },
+      "creation_timestamp": 1532277202
+    },
+    {
+      "name": "Saint-Rapha\u00c3\u00abl",
+      "coordinate": {
+        "latitude": 43.41449,
+        "longitude": 6.80723
+      },
+      "creation_timestamp": 1532274474
+    },
+    {
+      "name": "Saint-Rapha\u00c3\u00abl",
+      "coordinate": {
+        "latitude": 43.44812,
+        "longitude": 6.79271
+      },
+      "creation_timestamp": 1532259686
+    },
+    {
+      "name": "Saint-Rapha\u00c3\u00abl",
+      "coordinate": {
+        "latitude": 43.42538,
+        "longitude": 6.76974
+      },
+      "creation_timestamp": 1532252134
+    },
+    {
+      "name": "Saint-Rapha\u00c3\u00abl",
+      "coordinate": {
+        "latitude": 43.44831,
+        "longitude": 6.79296
+      },
+      "creation_timestamp": 1532248795
+    },
+    {
+      "name": "Saint-Rapha\u00c3\u00abl",
+      "coordinate": {
+        "latitude": 43.44817,
+        "longitude": 6.79287
+      },
+      "creation_timestamp": 1532241204
+    },
+    {
+      "name": "Saint-Rapha\u00c3\u00abl",
+      "coordinate": {
+        "latitude": 43.44801,
+        "longitude": 6.79275
+      },
+      "creation_timestamp": 1532205517
+    },
+    {
+      "name": "Saint-Rapha\u00c3\u00abl",
+      "coordinate": {
+        "latitude": 43.42594,
+        "longitude": 6.77244
+      },
+      "creation_timestamp": 1532203443
+    },
+    {
+      "name": "Saint-Rapha\u00c3\u00abl",
+      "coordinate": {
+        "latitude": 43.44807,
+        "longitude": 6.79276
+      },
+      "creation_timestamp": 1532193319
+    },
+    {
+      "name": "Saint-Rapha\u00c3\u00abl",
+      "coordinate": {
+        "latitude": 43.44779,
+        "longitude": 6.7926
+      },
+      "creation_timestamp": 1532181980
+    },
+    {
+      "name": "Montpellier",
+      "coordinate": {
+        "latitude": 43.60556,
+        "longitude": 3.87105
+      },
+      "creation_timestamp": 1531897003
+    },
+    {
+      "name": "Montpellier",
+      "coordinate": {
+        "latitude": 43.60557,
+        "longitude": 3.871
+      },
+      "creation_timestamp": 1531854670
+    },
+    {
+      "name": "Montpellier",
+      "coordinate": {
+        "latitude": 43.60189,
+        "longitude": 3.87134
+      },
+      "creation_timestamp": 1531851062
+    },
+    {
+      "name": "Amb\u00c3\u00a9rieu-en-Bugey",
+      "coordinate": {
+        "latitude": 45.9566,
+        "longitude": 5.35777
+      },
+      "creation_timestamp": 1531679464
+    },
+    {
+      "name": "Amb\u00c3\u00a9rieu-en-Bugey",
+      "coordinate": {
+        "latitude": 45.95651,
+        "longitude": 5.35781
+      },
+      "creation_timestamp": 1531669986
+    },
+    {
+      "name": "Amb\u00c3\u00a9rieu-en-Bugey",
+      "coordinate": {
+        "latitude": 45.95667,
+        "longitude": 5.35769
+      },
+      "creation_timestamp": 1531641063
+    },
+    {
+      "name": "Amb\u00c3\u00a9rieu-en-Bugey",
+      "coordinate": {
+        "latitude": 45.95662,
+        "longitude": 5.35762
+      },
+      "creation_timestamp": 1531603265
+    },
+    {
+      "name": "Amb\u00c3\u00a9rieu-en-Bugey",
+      "coordinate": {
+        "latitude": 45.95651,
+        "longitude": 5.3578
+      },
+      "creation_timestamp": 1531412388
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05566,
+        "longitude": 4.77039
+      },
+      "creation_timestamp": 1531394948
+    },
+    {
+      "name": "Beaune",
+      "coordinate": {
+        "latitude": 47.041,
+        "longitude": 4.84686
+      },
+      "creation_timestamp": 1531326494
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05583,
+        "longitude": 4.77033
+      },
+      "creation_timestamp": 1531168723
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05561,
+        "longitude": 4.77036
+      },
+      "creation_timestamp": 1530877418
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05575,
+        "longitude": 4.77037
+      },
+      "creation_timestamp": 1530869912
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.0556,
+        "longitude": 4.7703
+      },
+      "creation_timestamp": 1530794461
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05562,
+        "longitude": 4.77032
+      },
+      "creation_timestamp": 1530780911
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05569,
+        "longitude": 4.77045
+      },
+      "creation_timestamp": 1530721435
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.0556,
+        "longitude": 4.77028
+      },
+      "creation_timestamp": 1530608333
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.0557,
+        "longitude": 4.77026
+      },
+      "creation_timestamp": 1530511721
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05557,
+        "longitude": 4.77028
+      },
+      "creation_timestamp": 1530447231
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05559,
+        "longitude": 4.77041
+      },
+      "creation_timestamp": 1530378172
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.0557,
+        "longitude": 4.77036
+      },
+      "creation_timestamp": 1530293486
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.06506,
+        "longitude": 4.81408
+      },
+      "creation_timestamp": 1530285813
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.06508,
+        "longitude": 4.81408
+      },
+      "creation_timestamp": 1530276285
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.0556,
+        "longitude": 4.77024
+      },
+      "creation_timestamp": 1530264087
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.0557,
+        "longitude": 4.7703
+      },
+      "creation_timestamp": 1530209258
+    },
+    {
+      "name": "Ciel (Sa\u00c3\u00b4ne-et-Loire)",
+      "coordinate": {
+        "latitude": 46.8895,
+        "longitude": 5.06208
+      },
+      "creation_timestamp": 1530196505
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.0557,
+        "longitude": 4.77037
+      },
+      "creation_timestamp": 1530179741
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05587,
+        "longitude": 4.77033
+      },
+      "creation_timestamp": 1530119791
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05556,
+        "longitude": 4.77037
+      },
+      "creation_timestamp": 1530111203
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05567,
+        "longitude": 4.77047
+      },
+      "creation_timestamp": 1530085483
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.05579,
+        "longitude": 4.77036
+      },
+      "creation_timestamp": 1530034622
+    },
+    {
+      "name": "Savigny-L\u00c3\u00a8s-Beaune",
+      "coordinate": {
+        "latitude": 47.0558,
+        "longitude": 4.77028
+      },
+      "creation_timestamp": 1482770892
+    },
+    {
+      "name": "Beaune",
+      "coordinate": {
+        "latitude": 47.03325,
+        "longitude": 4.82752
+      },
+      "creation_timestamp": 1482770417
+    },
+    {
+      "name": "Beaune",
+      "coordinate": {
+        "latitude": 47.03715,
+        "longitude": 4.82789
+      },
+      "creation_timestamp": 1482770376
+    },
+    {
+      "name": "Beaune",
+      "coordinate": {
+        "latitude": 47.03658,
+        "longitude": 4.83303
+      },
+      "creation_timestamp": 1482770329
+    },
+    {
+      "name": "Beaune",
+      "coordinate": {
+        "latitude": 47.0382,
+        "longitude": 4.83761
+      },
+      "creation_timestamp": 1482770281
+    },
+    {
+      "name": "Corgoloin",
+      "coordinate": {
+        "latitude": 47.05454,
+        "longitude": 4.92163
+      },
+      "creation_timestamp": 1482769409
+    },
+    {
+      "name": "Foucherans",
+      "coordinate": {
+        "latitude": 47.07805,
+        "longitude": 5.43579
+      },
+      "creation_timestamp": 1482768026
+    },
+    {
+      "name": "Damparis",
+      "coordinate": {
+        "latitude": 47.07577,
+        "longitude": 5.43736
+      },
+      "creation_timestamp": 1482768008
+    },
+    {
+      "name": "Choisey",
+      "coordinate": {
+        "latitude": 47.07271,
+        "longitude": 5.43857
+      },
+      "creation_timestamp": 1482767998
+    },
+    {
+      "name": "Rahon",
+      "coordinate": {
+        "latitude": 47.00917,
+        "longitude": 5.47853
+      },
+      "creation_timestamp": 1482767773
+    },
+    {
+      "name": "Bersaillin",
+      "coordinate": {
+        "latitude": 46.84421,
+        "longitude": 5.56386
+      },
+      "creation_timestamp": 1482767180
+    },
+    {
+      "name": "Arlay",
+      "coordinate": {
+        "latitude": 46.7723,
+        "longitude": 5.51658
+      },
+      "creation_timestamp": 1482766937
+    },
+    {
+      "name": "Ruffey-sur-Seille",
+      "coordinate": {
+        "latitude": 46.74146,
+        "longitude": 5.50868
+      },
+      "creation_timestamp": 1482766871
+    },
+    {
+      "name": "Le Miroir (Sa\u00c3\u00b4ne-et-Loire)",
+      "coordinate": {
+        "latitude": 46.52396,
+        "longitude": 5.31276
+      },
+      "creation_timestamp": 1482765997
+    },
+    {
+      "name": "Beaupont",
+      "coordinate": {
+        "latitude": 46.40046,
+        "longitude": 5.27461
+      },
+      "creation_timestamp": 1482765570
+    },
+    {
+      "name": "Villemotier",
+      "coordinate": {
+        "latitude": 46.36244,
+        "longitude": 5.28416
+      },
+      "creation_timestamp": 1482765441
+    },
+    {
+      "name": "Saint-\u00c3\u0089tienne-Du-Bois",
+      "coordinate": {
+        "latitude": 46.27838,
+        "longitude": 5.24194
+      },
+      "creation_timestamp": 1482765148
+    },
+    {
+      "name": "Jasseron",
+      "coordinate": {
+        "latitude": 46.19882,
+        "longitude": 5.29564
+      },
+      "creation_timestamp": 1482764855
+    },
+    {
+      "name": "Montagnat",
+      "coordinate": {
+        "latitude": 46.17186,
+        "longitude": 5.30323
+      },
+      "creation_timestamp": 1482764769
+    },
+    {
+      "name": "Montagnat",
+      "coordinate": {
+        "latitude": 46.16909,
+        "longitude": 5.30202
+      },
+      "creation_timestamp": 1482764758
+    },
+    {
+      "name": "Montagnat",
+      "coordinate": {
+        "latitude": 46.16405,
+        "longitude": 5.29872
+      },
+      "creation_timestamp": 1482764741
+    },
+    {
+      "name": "Amb\u00c3\u00a9rieu-en-Bugey",
+      "coordinate": {
+        "latitude": 45.95676,
+        "longitude": 5.35763
+      },
+      "creation_timestamp": 1482763516
+    },
+    {
+      "name": "Ch\u00c3\u00a2teau-Gaillard (Ain)",
+      "coordinate": {
+        "latitude": 45.97557,
+        "longitude": 5.32545
+      },
+      "creation_timestamp": 1482762162
+    },
+    {
+      "name": "Amb\u00c3\u00a9rieu-en-Bugey",
+      "coordinate": {
+        "latitude": 45.96828,
+        "longitude": 5.36356
+      },
+      "creation_timestamp": 1482758499
+    },
+    {
+      "name": "Amb\u00c3\u00a9rieu-en-Bugey",
+      "coordinate": {
+        "latitude": 45.95649,
+        "longitude": 5.35806
+      },
+      "creation_timestamp": 1482754261
+    },
+    {
+      "name": "Amb\u00c3\u00a9rieu-en-Bugey",
+      "coordinate": {
+        "latitude": 45.95659,
+        "longitude": 5.35772
+      },
+      "creation_timestamp": 1482741167
+    },
+    {
+      "name": "Amb\u00c3\u00a9rieu-en-Bugey",
+      "coordinate": {
+        "latitude": 45.95659,
+        "longitude": 5.35772
+      },
+      "creation_timestamp": 1482741058
+    }
+  ]
+}
