@@ -1,6 +1,7 @@
 # Content
 
 Those notebooks were created by **Gawen MONNOT** and translated to Japanese by **Satoshi IIDA**, from [Georepublic Japan](https://georepublic.info/en/).
+
 They were made at the request of Tokyo and Keio universities and are used as course material in data visualization.
 
 This work is a part of the [Ichnion project](http://ichnion.code4myself.org/).
