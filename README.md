@@ -8,6 +8,8 @@ This work is a part of the [Ichnion project](http://ichnion.code4myself.org/).
 
 All the content is built on the exploitation of data from [Google Takeout services](https://takeout.google.com/settings/takeout).
 
+For the purpose of the presentation, those notebooks use anonymous Google Takeout data. To apply the code to your own data, you will need to replace every `PATH_TO_YOUR_FILE` variables by the path to where your data is stored on your device.
+
 Below, you will find the list of required installations to fully run the notebooks:
 
 - Python and Jupyter Notebook. We recommend you to install the [Anacadonda ecosystem](https://www.anaconda.com/products/individual).
