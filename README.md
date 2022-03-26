@@ -1,4 +1,4 @@
-# Content
+# Introduction
 
 Those notebooks were created by **Gawen MONNOT** and translated to Japanese by **Satoshi IIDA**, from [Georepublic Japan](https://georepublic.info/en/).
 
@@ -17,3 +17,17 @@ Below, you will find the list of required installations to fully run the noteboo
 - [folium](https://anaconda.org/conda-forge/folium)
 - [reverse_geocoder](https://anaconda.org/conda-forge/reverse_geocoder)
 
+
+# Content 
+
+
+There are two different folders. 
+
+The first one `(1) Introduction notebooks` was made for students who are not comfortable with Jupyter Notebook, Python and its libraries. It contains notebooks that quickly explain those concepts.
+
+The second one `(2) Google Takeout Data Notebook` contains notebooks where Google Takeout Data can be visualized and exploited. 
+
+
+# Visualization 
+
+If you want to quickly visualize the notebooks whitout manipulating them, [click here](https://nbviewer.org/github/ichnion/notebooks/tree/main/).
